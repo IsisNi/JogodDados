@@ -36,3 +36,9 @@ RN02 – O valor da aposta deve estar entre 2 e 12.
 RN03 – Jogadores podem apostar em valores iguais (dividindo o prêmio).
 
 RN04 – Caso nenhum jogador acerte, o computador é declarado vencedor.
+
+## Diagrama de classes
+![Diagrama de Classes](./Diagramadeclasses-JogodeDados.png)
+
+## Diagrama de Casos de uso
+![Diagrama de Casos de uso](./Diagramadecasosdeuso-JogodeDados.jpg)
